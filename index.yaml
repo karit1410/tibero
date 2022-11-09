@@ -3,12 +3,12 @@ entries:
   tibero:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-09T16:42:20.851257902+09:00"
+    created: "2022-11-09T16:48:56.425135878+09:00"
     description: A Helm chart for Kubernetes
-    digest: 93e149d111dd31eea64661f6ad599e70ca5bfc3afb549572332a22410d078e9a
+    digest: 528d71b929fbd46d1f7f44fd3ed6bd015b6b65387fd4679952655a97e8e5f612
     name: tibero
     type: application
     urls:
     - tibero-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-09T16:42:20.850643902+09:00"
+generated: "2022-11-09T16:48:56.424090772+09:00"
