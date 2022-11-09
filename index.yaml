@@ -1,36 +1,14 @@
 apiVersion: v1
 entries:
-  single:
+  tibero:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-03T14:00:38.443031345+09:00"
+    created: "2022-11-09T16:42:20.851257902+09:00"
     description: A Helm chart for Kubernetes
-    digest: ac7524e287353d03e53c44c931ff5509ac7f0443d147230deed4360753febb16
-    name: single
+    digest: 93e149d111dd31eea64661f6ad599e70ca5bfc3afb549572332a22410d078e9a
+    name: tibero
     type: application
     urls:
-    - single-0.1.0.tgz
+    - tibero-0.1.0.tgz
     version: 0.1.0
-  tastac:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-11-03T14:00:38.444781853+09:00"
-    description: A Helm chart for Kubernetes
-    digest: 6c0c3cb72b65fd9bbb9435531cbf5a1f5ce4d25b34f84bfa8dfbc18071c40a4d
-    name: tastac
-    type: application
-    urls:
-    - tastac-0.1.0.tgz
-    version: 0.1.0
-  zeta:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-11-03T14:00:38.447050839+09:00"
-    description: A Helm chart for Kubernetes
-    digest: fc53c3deaa29b4b83298dd9d77e218c693276b7a616555ba26db95f9c6d8d64c
-    name: zeta
-    type: application
-    urls:
-    - zeta-0.1.0.tgz
-    version: 0.1.0
-generated: "2022-11-03T14:00:38.441552979+09:00"
+generated: "2022-11-09T16:42:20.850643902+09:00"
