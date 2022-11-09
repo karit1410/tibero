@@ -1,47 +1,36 @@
 apiVersion: v1
 entries:
-  single:
+  tibero-single:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-09T16:58:28.931742744+09:00"
+    created: "2022-11-09T17:14:11.69103755+09:00"
     description: A Helm chart for Kubernetes
-    digest: 570646487b8947086d9070a9ea8b0c0877a82379e9ce98fdfe4efc780eb536f3
-    name: single
+    digest: a9a78db811e2f2dddf6eee1c020107e2a4bb6dda8190b776f8d6b9878dcd26e5
+    name: tibero-single
     type: application
     urls:
-    - single-0.1.0.tgz
+    - tibero-single-0.1.0.tgz
     version: 0.1.0
-  tastac:
+  tibero-tastac:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-09T16:58:28.932914846+09:00"
+    created: "2022-11-09T17:14:11.692065048+09:00"
     description: A Helm chart for Kubernetes
-    digest: 3e5b428cd49555af3c47ccfacf670d60bd994e83fd70ff9d9e99cb8c493c3951
-    name: tastac
+    digest: 394ad3c015443808eed9120a778e4e3aaa973f3b1fc8b528f19460b5d1459109
+    name: tibero-tastac
     type: application
     urls:
-    - tastac-0.1.0.tgz
+    - tibero-tastac-0.1.0.tgz
     version: 0.1.0
-  tibero:
+  tibero-zeta:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-09T16:58:28.934665643+09:00"
+    created: "2022-11-09T17:14:11.693334962+09:00"
     description: A Helm chart for Kubernetes
-    digest: 7f2590784a0bf45a43bdf5d4f80835b9fac7bb78c69d54fea6da353da12c4c4b
-    name: tibero
+    digest: 8c4e5a355a2e5c29d87771980663006a8d79e702503e18767aad26ff986acffa
+    name: tibero-zeta
     type: application
     urls:
-    - tibero-0.1.0.tgz
+    - tibero-zeta-0.1.0.tgz
     version: 0.1.0
-  zeta:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-11-09T16:58:28.936467992+09:00"
-    description: A Helm chart for Kubernetes
-    digest: d792d2d2eecfde5f29df6f97ece44e545e6b7b9adddbd20a98f5c75ffd023228
-    name: zeta
-    type: application
-    urls:
-    - zeta-0.1.0.tgz
-    version: 0.1.0
-generated: "2022-11-09T16:58:28.930754234+09:00"
+generated: "2022-11-09T17:14:11.69011566+09:00"
